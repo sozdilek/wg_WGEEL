@@ -529,7 +529,10 @@ Still waiting for updates on annex  4, 6 and 7  and possibly 2
 ### annex 3
 
 ### annex 4
-
+*TR: For duplicates 0 values replaced in the database (old values kept with code eel_qal_id=20)
+,
+						17 values not replaced (values from current datacall stored with code eel_qal_id 20)
+*411 new values inserted in the database
 ### annex 5
 
 ### annex 6
