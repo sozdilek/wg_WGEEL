@@ -880,7 +880,7 @@ No new series
 ### annex 3
 
 ### annex 4
-
+*PL annex 4 : 252 new values inserted in the database: Proceeded
 ### annex 5
 
 ### annex 6
